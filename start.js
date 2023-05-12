@@ -46,6 +46,7 @@ function cancelToken() {
 // INTERCEPTING REQUESTS & RESPONSES
 
 // AXIOS INSTANCES
+//Axios 
 
 // Show output in browser
 function showOutput(res) {
